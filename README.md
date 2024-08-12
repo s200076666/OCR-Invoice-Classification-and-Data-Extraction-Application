@@ -6,3 +6,5 @@ Tesseract OCR: For extracting text from images and PDFs.
 Tkinter: For building the graphical user interface.
 PyMuPDF: For handling PDF text extraction.
 FPDF: For creating PDF documents with extracted data.
+
+note to watch viedo you must downloaded
